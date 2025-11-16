@@ -1,0 +1,17 @@
+openai
+google-generativeai
+python-dotenv
+
+pyttsx3
+SpeechRecognition
+pyaudio
+
+colorama
+requests
+flask
+
+transformers
+tensorflow
+keras
+nltk
+

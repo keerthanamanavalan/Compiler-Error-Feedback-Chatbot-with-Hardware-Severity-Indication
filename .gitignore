@@ -1,0 +1,27 @@
+# Python
+backend\.venv
+backend\venv
+frontend\venv
+venv/
+__pycache__/
+*.pyc
+
+# Node / Vite / Frontend
+node_modules/
+dist/
+vite_project/node_modules/
+frontend/node_modules/
+
+# VS Code settings
+.vscode/
+
+# Output or build folders
+output/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
